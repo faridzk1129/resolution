@@ -1,0 +1,5 @@
+plan to learn swift 
+- i want to create app crud in swift
+  done in 2 days
+- i want to creat app using machine learning swift
+  done in 4 days
