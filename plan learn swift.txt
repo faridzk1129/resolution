@@ -1,0 +1,3 @@
+plan to learn swift 
+- i want to create app crud in swift
+- i want to creat app using machine learning swift
