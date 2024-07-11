@@ -1,3 +1,4 @@
 my resolution for this month
 - master in github
 - master in swift ui
+- master in OOP 
