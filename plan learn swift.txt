@@ -1,5 +1,5 @@
 plan to learn swift 
-- i want to create app crud in swift
+- i want to create app crud in swift using API (node js & express js) and deploy API using cloud run 
   use pure swift ui
 - i want to create app using machine learning swift
   done in 4 days
